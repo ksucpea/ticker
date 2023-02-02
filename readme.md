@@ -1,4 +1,4 @@
-<h1>Stock ticker project</h1>
+<h1>Stock ticker</h1>
 
 <h2>Hardware</h2>
 ESP8266 Wifi, 64x32 LED Matrix, dupont wires, 5v 8a power adapter, duct tape, pizza box (for housing)
